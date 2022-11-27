@@ -51,4 +51,3 @@ Copyright © 2022 [Tuurkevg](https://github.com/Tuurkevg).<br />
 This project is [GNU General Public License V3.0](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#disclaimer) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
