@@ -7,7 +7,7 @@
   <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#disclaimer" target="_blank">
     <img alt="License: GNU General Public License V3.0" src="https://img.shields.io/badge/License-GNU General Public License V3.0-yellow.svg" />
   </a>
-  <a href="[https://twitter.com/https:\/\/twitter.com\/tuurvg](https://twitter.com/tuurvg)" target="_blank">
+  <a href="https://twitter.com/tuurvg" target="_blank">
     <img alt="Twitter: https:\/\/twitter.com\/tuurvg" src="https://img.shields.io/twitter/follow/https:\/\/twitter.com\/tuurvg.svg?style=social" />
   </a>
 </p>
