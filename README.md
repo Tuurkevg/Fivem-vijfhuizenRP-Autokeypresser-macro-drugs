@@ -1,18 +1,14 @@
 <h1 align="center">Welcome to Vijfhuizen macro/keypresser drugs anti-afk 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/Tuurkevg/vijfhuizenRP-Autokeypresser-macro-drugs/blob/main/README.md" target="_blank">
+  <a href="https://github.com/Tuurkevg/vijfhuizenRP-Autokeypresser-macro-drugs/releases" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#disclaimer" target="_blank">
     <img alt="License: GNU General Public License V3.0" src="https://img.shields.io/badge/License-GNU General Public License V3.0-yellow.svg" />
-  </a>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
-   <a href="https://github.com/Tuurkevg/vijfhuizenRP-Autokeypresser-macro-drugs/blob/main/README.md" target="_blank">
-  </a>
 </p>
 
-> use this script be earn money in a easy way in VijfhuizenRP
+> use this script and earn money in a easy way in VijfhuizenRP
 
 ### 🏠 [Homepage](https://github.com/Tuurkevg/vijfhuizenRP-Autokeypresser-macro-drugs)
 
