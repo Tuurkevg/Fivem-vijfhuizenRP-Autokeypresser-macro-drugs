@@ -25,7 +25,7 @@ Download my latest release in #releases and run the .exe
 ## Usage
 
 ```sh
-run in administrator for best performance
+run in administrator for best performance and press **F10** to stop,play and pause
 ```
 
 ## Author
